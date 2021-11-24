@@ -1,0 +1,823 @@
+{
+    "data": [
+    {
+        "id": 992852,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Нарисовать в psd, ai\/cdr\/eps макет мобильных и десктопных страниц",
+            "description": "Нарисовать в psd, ai\/cdr\/eps макет мобильных страниц и десктопных страниц\nМакет интерактивных мобильных страниц «Главного Калькулятора», Заполнение формы онлайн-калькулятора Результат расчета \n\nМакет интерактивной мобильной страницы «Калькулятор Сборного груза»\n•             Заполнение формы «Калькулятор Сборного груза»\n•             Результат расчета\n\n\nУсловия:\n1. минимальное разрешение смартфона: 320х568px (вертикальное положение), 568х320px (горизонтальное)\n2. минимальное разрешение планшета 768х1024px (вертикальное положение), для горизонтального не нужно рисовать\nНеобходимо в эти размеры уместить все необходимые элементы интерактивной формы, в Первый экран. Минимальные отступы между элементами 10px\n\n\nМакет интерактивной десктопной страницы «Расчет стоимости» Заполнение формы «Расчет стоимости» Результат расчета",
+            "description_html": "<p>Нарисовать в psd, ai\/cdr\/eps макет мобильных страниц и десктопных страниц<\/p><p>Макет интерактивных мобильных страниц &laquo;Главного Калькулятора&raquo;,<\/p><ul><li>Заполнение формы онлайн-калькулятора<\/li><li>Результат расчета<\/li><\/ul><p><br \/><\/p><p>Макет интерактивной мобильной страницы &laquo;Калькулятор Сборного груза&raquo;<\/p><p>&bull; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Заполнение формы &laquo;Калькулятор Сборного груза&raquo;<\/p><p>&bull; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат расчета<\/p><p><br \/><\/p><p>Условия:<\/p><p>1. минимальное разрешение смартфона: 320х568px (вертикальное положение), 568х320px (горизонтальное)<\/p><p>2. минимальное разрешение планшета 768х1024px (вертикальное положение), для горизонтального не нужно рисовать<\/p><p>Необходимо в эти размеры уместить все необходимые элементы интерактивной формы, в Первый экран. Минимальные отступы между элементами 10px<\/p><p><br \/><\/p><p>Макет интерактивной десктопной страницы &laquo;Расчет стоимости&raquo;<\/p><ul><li>Заполнение формы &laquo;Расчет стоимости&raquo;<\/li><li>Результат расчета<\/li><\/ul><p><br \/><\/p>",
+            "skills": [
+            {
+                "id": 43,
+                "name": "Web design"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget":
+            {
+                "amount": 1200,
+                "currency": "RUB"
+            },
+            "bid_count": 1,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "split",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 847727,
+                "type": "employer",
+                "login": "Hallberg",
+                "first_name": "Светлана",
+                "last_name": "Ю.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/Hallberg.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/Hallberg.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/847727"
+            },
+            "freelancer": null,
+            "tags": [
+            {
+                "id": 2638,
+                "name": "веб-дизайн"
+            },
+            {
+                "id": 81593,
+                "name": "web-design"
+            },
+            {
+                "id": 546893,
+                "name": "psd макет"
+            },
+            {
+                "id": 1543139,
+                "name": "векторные иконки"
+            }],
+            "updates": [],
+            "published_at": "2021-11-21T16:17:17+02:00",
+            "expired_at": "2021-11-28T16:17:17+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992852",
+                "web": "https:\/\/freelancehunt.com\/project\/narisovat-psd-ai-cdr-eps-maket-mobilnyih\/992852.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992852\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992852\/bids"
+        }
+    },
+    {
+        "id": 992851,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Адаптивный лендинг с макета фигмы",
+            "description": "Всем привет!  \n\n\nНаша команда работает над огромный, перспективным крипто-проектом. Дизайн нового сайт готов, нужно запускать его уже в ближайшие сроки. На данный момент необходимо сверстать лендинг с адаптивом , который был бы дополнен анимацией. В идеале, на GreenSock. Так же у нас есть основная анимация в формате webm.\n\n\nСсылка на ТЗ добавлена в файл txt.\n\n\nБОЛЬШАЯ ПРОЗЬБА!!\nНе писать новичкам которые только начали верстать, и не писать тем кто предлагает значительно выше цену от бюджета проекта. Такие заявки будет отклоняться в первую очередь!!",
+            "description_html": "<p><strong>Всем привет!<\/strong> &nbsp;<\/p><p><br \/><\/p><p>Наша команда работает над огромный, перспективным крипто-проектом. Дизайн нового сайт готов, нужно запускать его уже в ближайшие сроки. На данный момент необходимо сверстать лендинг с адаптивом , который был бы дополнен анимацией. В идеале, на <strong data-node-id=\"2\">GreenSock<\/strong>. Так же у нас есть основная анимация в формате webm.<\/p><p><br \/><\/p><p><em>Ссылка на ТЗ добавлена в файл txt.<\/em><\/p><p><br \/><\/p><p><strong>БОЛЬШАЯ ПРОЗЬБА!!<\/strong><\/p><p>Не писать новичкам которые только начали верстать, и не писать тем кто предлагает значительно выше цену от бюджета проекта. Такие заявки будет отклоняться в первую очередь!! &nbsp;<\/p>",
+            "skills": [
+            {
+                "id": 99,
+                "name": "Web programming"
+            },
+            {
+                "id": 124,
+                "name": "HTML and CSS"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget":
+            {
+                "amount": 3500,
+                "currency": "UAH"
+            },
+            "bid_count": 3,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "employer",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 1055662,
+                "type": "employer",
+                "login": "Demo11",
+                "first_name": "Demo",
+                "last_name": "L.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/Demo11.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/Demo11.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/1055662"
+            },
+            "freelancer": null,
+            "tags": [
+            {
+                "id": 32,
+                "name": "html"
+            },
+            {
+                "id": 33,
+                "name": "Javascript"
+            },
+            {
+                "id": 149,
+                "name": "css"
+            },
+            {
+                "id": 1901,
+                "name": "анимация"
+            },
+            {
+                "id": 30194,
+                "name": "лендинг"
+            },
+            {
+                "id": 31311,
+                "name": "lending page"
+            },
+            {
+                "id": 36364,
+                "name": "адаптивная верстка"
+            },
+            {
+                "id": 78311,
+                "name": "валидный код"
+            },
+            {
+                "id": 482667,
+                "name": "HTML-вёрстка"
+            }],
+            "updates": [],
+            "published_at": "2021-11-21T16:16:44+02:00",
+            "expired_at": "2021-11-28T16:16:44+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992851",
+                "web": "https:\/\/freelancehunt.com\/project\/adaptivnyiy-lending-maketa-figmyi\/992851.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992851\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992851\/bids"
+        }
+    },
+    {
+        "id": 992850,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Логотип и наружная реклама для риелторской фирмы",
+            "description": "Требуется разработать логотип и наружную рекламу для риелторторской фирмы.\n\n\nФирма занимается всеми видами недвижимости.\n\n\nКлиенты: физические и юридические лица.\n\n\nОбщие требования:\n- лаконичность и простота\r\n\n- цветовая гамма: черный, зелёный, белый\r\n\n- запоминаемость\r\n\n- название фирмы в логотипе\n\n\nТребования к наружной рекламе:\n- простота воспрятия\r\n\n- большой логотип\r\n\n- размещение на остановках, рекламных щитах",
+            "description_html": "<p>Требуется разработать логотип и наружную рекламу для риелторторской фирмы.<\/p><p><br \/><\/p><p>Фирма занимается всеми видами недвижимости.<\/p><p><br \/><\/p><p>Клиенты: физические и юридические лица.<\/p><p><br \/><\/p><p>Общие требования:<\/p><p>- лаконичность и простота\r\n<\/p><p>- цветовая гамма: черный, зелёный, белый\r\n<\/p><p>- запоминаемость\r\n<\/p><p>- название фирмы в логотипе<\/p><p><br \/><\/p><p>Требования к наружной рекламе:<\/p><p>- простота воспрятия\r\n<\/p><p>- большой логотип\r\n<\/p><p>- размещение на остановках, рекламных щитах<\/p>",
+            "skills": [
+            {
+                "id": 17,
+                "name": "Logo design"
+            },
+            {
+                "id": 109,
+                "name": "Outdoor advertising"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget":
+            {
+                "amount": 15000,
+                "currency": "RUB"
+            },
+            "bid_count": 7,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "employer",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 1065350,
+                "type": "employer",
+                "login": "shams_am00_work",
+                "first_name": "Шамсудин",
+                "last_name": "П.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/shams_am00_work.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/shams_am00_work.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/1065350"
+            },
+            "freelancer": null,
+            "tags": [],
+            "updates": [],
+            "published_at": "2021-11-21T16:15:27+02:00",
+            "expired_at": "2021-12-05T16:15:27+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992850",
+                "web": "https:\/\/freelancehunt.com\/project\/logotip-naruzhnaya-reklama-dlya-rieltorskoy\/992850.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992850\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992850\/bids"
+        }
+    },
+    {
+        "id": 992848,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Поднять шаблон на WordPress",
+            "description": "Надо поднять шаблон тему\nот корректировать структуру - дополнив элементы\nнаполнить\nТз отправлю в личку\nесли проект интересен - крепите свои работы для понимания что умеете",
+            "description_html": "<p>Надо поднять шаблон тему<br \/>от корректировать структуру - дополнив элементы<br \/>наполнить<br \/>Тз отправлю в личку<br \/>если проект интересен - крепите свои работы для понимания что умеете<\/p>",
+            "skills": [
+            {
+                "id": 99,
+                "name": "Web programming"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget":
+            {
+                "amount": 1200,
+                "currency": "UAH"
+            },
+            "bid_count": 4,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "employer",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 1061536,
+                "type": "employer",
+                "login": "ObiVan255",
+                "first_name": "Obi",
+                "last_name": "V.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/ObiVan255.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/ObiVan255.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/1061536"
+            },
+            "freelancer": null,
+            "tags": [],
+            "updates": [],
+            "published_at": "2021-11-21T16:08:33+02:00",
+            "expired_at": "2021-11-28T16:08:33+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992848",
+                "web": "https:\/\/freelancehunt.com\/project\/podnyat-shablon-na-wordpress\/992848.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992848\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992848\/bids"
+        }
+    },
+    {
+        "id": 992847,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Написание ТЗ и подготовка схемы для чат-бота в Телеграме",
+            "description": "Написание ТЗ и подготовка схемы чат-бота для утверждения с клиентом.\nОписание предоставлю дополнительно.",
+            "description_html": "<p>Написание ТЗ и подготовка схемы чат-бота для утверждения с клиентом.<\/p><p>Описание предоставлю дополнительно.<\/p><p><br \/><\/p>",
+            "skills": [
+            {
+                "id": 180,
+                "name": "Bot development"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget":
+            {
+                "amount": 500,
+                "currency": "UAH"
+            },
+            "bid_count": 1,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "employer",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 526219,
+                "type": "employer",
+                "login": "Katerina_2012",
+                "first_name": "Катерина",
+                "last_name": "П.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/Katerina_2012.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/Katerina_2012.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/526219"
+            },
+            "freelancer": null,
+            "tags": [
+            {
+                "id": 893985,
+                "name": "чат-бот"
+            },
+            {
+                "id": 5325626,
+                "name": "Чат-боты для Telegram"
+            }],
+            "updates": [],
+            "published_at": "2021-11-21T16:08:26+02:00",
+            "expired_at": "2021-11-28T16:11:52+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992847",
+                "web": "https:\/\/freelancehunt.com\/project\/napisanie-tz-podgotovka-shemyi-dlya\/992847.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992847\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992847\/bids"
+        }
+    },
+    {
+        "id": 992846,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Специалист по Инстаграм",
+            "description": "Добрый день! Нужен специалист по продвижению в инстаграм. Подготавливаем прайс для инвестора и нужно чтобы человек был подкованным для того чтобы мы предоставили прайс инвестору и запустили проект. Нужно составить бюджет на таргет,  гиты(если они еще актуальны), масфоловинг(если он еще актуален как и гиты)\nВажно понимать, что если все правильно сделаем, то работа будет в долгую 6-12 месяцев точно. \nБюджет не знаю, пишите пожалуйста ваш телеграмм в личку и скину примеры что нужно и к чему нужно попытаться прийти за 3-6 месяцев.",
+            "description_html": "<p>Добрый день! Нужен специалист по продвижению в инстаграм. Подготавливаем прайс для инвестора и нужно чтобы человек был подкованным для того чтобы мы предоставили прайс инвестору и запустили проект. Нужно составить бюджет на таргет, &nbsp;гиты(если они еще актуальны), масфоловинг(если он еще актуален как и гиты)<\/p><p>Важно понимать, что если все правильно сделаем, то работа будет в долгую 6-12 месяцев точно.&nbsp;<\/p><p>Бюджет не знаю, пишите пожалуйста ваш телеграмм в личку и скину примеры что нужно и к чему нужно попытаться прийти за 3-6 месяцев.<\/p>",
+            "skills": [
+            {
+                "id": 131,
+                "name": "Social media marketing"
+            },
+            {
+                "id": 133,
+                "name": "Social media advertising"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget":
+            {
+                "amount": 1000,
+                "currency": "UAH"
+            },
+            "bid_count": 0,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "employer",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 294738,
+                "type": "employer",
+                "login": "Duque",
+                "first_name": "Konstantin",
+                "last_name": "A.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/Duque.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/Duque.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/294738"
+            },
+            "freelancer": null,
+            "tags": [
+            {
+                "id": 47033,
+                "name": "таргетированная реклама"
+            },
+            {
+                "id": 59364,
+                "name": "инстаграм"
+            }],
+            "updates": [],
+            "published_at": "2021-11-21T16:07:32+02:00",
+            "expired_at": "2021-11-28T16:07:32+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992846",
+                "web": "https:\/\/freelancehunt.com\/project\/spetsialist-po-instagram\/992846.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992846\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992846\/bids"
+        }
+    },
+    {
+        "id": 992843,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Подключить новую верстку к старому проекту html\/react",
+            "description": "Есть проект интернет сервис, выполнен на react, бэкенд на php (laravel)\nГотовая новая верстка в html, функционал соответствует старому проекту\n\n\nНеобходимо собрать проект на новой верстке\n\n\nСсылку на исходник пришлю в личку",
+            "description_html": "<p>Есть проект интернет сервис, выполнен на react, бэкенд на php (laravel)<\/p><p>Готовая новая верстка в html, функционал соответствует старому проекту<\/p><p><br \/><\/p><p>Необходимо собрать проект на новой верстке<\/p><p><br \/><\/p><p>Ссылку на исходник пришлю в личку&nbsp;<\/p>",
+            "skills": [
+            {
+                "id": 28,
+                "name": "JavaScript"
+            },
+            {
+                "id": 124,
+                "name": "HTML and CSS"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget":
+            {
+                "amount": 10000,
+                "currency": "RUB"
+            },
+            "bid_count": 1,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "employer",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 248317,
+                "type": "employer",
+                "login": "ser981",
+                "first_name": "It",
+                "last_name": "S.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/ser981.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/ser981.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/248317"
+            },
+            "freelancer": null,
+            "tags": [],
+            "updates": [],
+            "published_at": "2021-11-21T15:54:23+02:00",
+            "expired_at": "2021-11-28T15:54:23+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992843",
+                "web": "https:\/\/freelancehunt.com\/project\/podklyuchit-novuyu-verstku-staromu-proektu\/992843.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992843\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992843\/bids"
+        }
+    },
+    {
+        "id": 992842,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Написать статьи на тему софта под windows",
+            "description": "Необходимо написать seo тексты для сайта с тематикой о программным обеспечении для ПК с ОС-windows. Очень важно писать не просто тексты перечисляя заезженные факты и описания софта, а сделать статью уникальной и познавательной для пользователя. Перечислить преимущества и недостатки в таком стиле, как никто ранее не делал, чтобы читая такой текст пользователь находил его полезным и экспертным. Следуя из этого, писать должен тот кто разбирается в данной теме, а не просто рерайтить. Основная тема - это обзор и анализ популярных антивирусов типа (аваст, касперский и другие) Но одна статья будет совершенно уникальной",
+            "description_html": "<p>Необходимо написать seo тексты для сайта с тематикой о программным обеспечении для ПК с ОС-windows. Очень важно писать не просто тексты перечисляя заезженные факты и описания софта, а сделать статью уникальной и познавательной для пользователя. Перечислить преимущества и недостатки в таком стиле, как никто ранее не делал, чтобы читая такой текст пользователь находил его полезным и экспертным. Следуя из этого, писать должен тот кто разбирается в данной теме, а не просто рерайтить. Основная тема - это обзор и анализ популярных антивирусов типа (аваст, касперский и другие) Но одна статья будет совершенно уникальной<\/p>",
+            "skills": [
+            {
+                "id": 76,
+                "name": "Copywriting"
+            },
+            {
+                "id": 97,
+                "name": "Technical documentation"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget": null,
+            "bid_count": 4,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "employer",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 1038170,
+                "type": "employer",
+                "login": "dmytro_0785",
+                "first_name": "Дмитрий",
+                "last_name": "Б.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/dmytro_0785.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/dmytro_0785.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/1038170"
+            },
+            "freelancer": null,
+            "tags": [],
+            "updates": [],
+            "published_at": "2021-11-21T15:54:21+02:00",
+            "expired_at": "2021-11-24T15:54:21+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992842",
+                "web": "https:\/\/freelancehunt.com\/project\/napisat-stati-na-temu-softa-pod\/992842.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992842\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992842\/bids"
+        }
+    },
+    {
+        "id": 992841,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Требуется размещение постов на форумах с регистрацией",
+            "description": "Сразу Предоставление списка форумов, по запросу Возможно составление текстов для постов (рерайт ) Отчеты с прямыми ссылками на размещённые посты с логинами и паролями для входа Первый этап сотрудничества: Тестовое размещение постов в кол-ве 5-10шт , для проверки качества размещения Второй этап: Размещение 20-30шт возможно сотрудничество на постоянной основе Тематика постов разношерстная к ней не привязываться. Вышлите прайс с ценами на размещение, желательно сетку Пишите сразу в telegrам: buublyk (через собачку)",
+            "description_html": "<div data-bazid=\"8\" data-bazooka=\"LinkifyText\">Сразу Предоставление списка форумов, по запросу Возможно составление текстов для постов (рерайт ) Отчеты с прямыми ссылками на размещённые посты с логинами и паролями для входа Первый этап сотрудничества: Тестовое размещение постов в кол-ве 5-10шт , для проверки качества размещения Второй этап: Размещение 20-30шт возможно сотрудничество на постоянной основе Тематика постов разношерстная к ней не привязываться. Вышлите прайс с ценами на размещение, желательно сетку Пишите сразу в telegrам: buublyk (через собачку)<\/div><p><br \/><\/p>",
+            "skills": [
+            {
+                "id": 133,
+                "name": "Social media advertising"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget":
+            {
+                "amount": 300,
+                "currency": "UAH"
+            },
+            "bid_count": 0,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "developer",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 1065369,
+                "type": "employer",
+                "login": "mariabublik",
+                "first_name": "Мария",
+                "last_name": "Б.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/mariabublik.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/mariabublik.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/1065369"
+            },
+            "freelancer": null,
+            "tags": [
+            {
+                "id": 289,
+                "name": "форум"
+            },
+            {
+                "id": 3397,
+                "name": "постинг"
+            },
+            {
+                "id": 8734,
+                "name": "форумы"
+            },
+            {
+                "id": 9783,
+                "name": "Наполнение сайта\/форума"
+            },
+            {
+                "id": 20759,
+                "name": "наполнение форума"
+            }],
+            "updates": [],
+            "published_at": "2021-11-21T15:53:22+02:00",
+            "expired_at": "2021-11-28T15:53:22+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992841",
+                "web": "https:\/\/freelancehunt.com\/project\/trebuetsya-razmeschenie-postov-na-forumah\/992841.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992841\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992841\/bids"
+        }
+    },
+    {
+        "id": 992641,
+        "type": "project",
+        "attributes":
+        {
+            "name": "Настроить сайт на Ecwid и Wordpress",
+            "description": "Есть сайт maleskin.com.ua с установленным плагином Ecwid и темой Flatsome. Необходимо сделать следующее:\n1. Под верхними меню надо вставить карусель с большими картинками и показать скриншотами или на видео как самостоятельно можно будет удалить\/добавить картинки в карусель. При клике на картинку должен происходить переход на заданную страницу (планируем использовать для промоакций).\nПосле карусели должны идти плитки категорий с названиями, как сейчас и \"обрані продукти\".\n\n2. Показать скриншотами или на видео как настроить картинки в плитках категорий, сейчас там просто градиент разными цветами.\n\n3. Настроить\/включить личный кабинет пользователя через, чтоб пользователи могли регистрироваться на сайте, видеть все свои покупки товаров, добавленных на сайте через Ecwid их статус.\n3.1 Добавить кнопку личного кабинета\/регистрации в место, которое показано на скриншоте. \n3.2 Добавить рядом с кнопкой личного кабинета кнопку с корзиной, на которой будет показано количество добавленных товаров и их общая стоимость\n3.3 Показать скриншотами или на видео как и где настраивается личный кабинет. Например, какие поля должен заполнять пользователь при регистрации.\n\n4. Показать скриншотами или на видео, где в админке выбираются товары, которые будут добавлены в \"Обрані продукти\"\n\n5. Рядом с кнопкой \"Всі товари\" добавить: поле для поиска товаров, добавленных через Ecwid (в поле должно быть написано \"Пошук\"); выпадающий список с категориями товаров; выпадающий список с брендами товаров. При нажатии на ссылку из выпадающего списка должен происходить переход на страницу отдельной категории, либо отдельного бренда. Это может быть страничка, аналогичная той, которая будет добавлена в пункте 6, но просто с активированным заранее фильтром по категории\/бренду.\n\n6. Сделать, чтобы при нажатии на кнопку \"Всі товари\", осуществлялся переход на отдельную страницу со всеми товарами, где в левой части страницы будет два фильтра - категории, бренды, а справа плитки отфильтрованных товаров\n7. На товарные страницы добавить блок похожих товаров внизу под описанием. Показать скриншотами или видео, как его настраивать (если нужно). Будет ли он автоматически добавляться в новых товарах?\n8. Сделать чтоб при нажатии на кнопку добавлению в корзину не происходил автоматический переход в корзину, а просто менялся счетчик добавленных товаров на кнопке, добавленной в пункте 3.2",
+            "description_html": "<p>Есть сайт <a href=\"\/\/maleskin.com\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">maleskin.com<\/a>.ua с установленным плагином Ecwid и темой Flatsome. Необходимо сделать следующее:<\/p><p>1. Под верхними меню надо вставить карусель с большими картинками и показать скриншотами или на видео как самостоятельно можно будет удалить\/добавить картинки в карусель. При клике на картинку должен происходить переход на заданную страницу (планируем использовать для промоакций).<\/p><p>После карусели должны идти плитки категорий с названиями, как сейчас и &quot;обрані продукти&quot;.<\/p><p><a rel=\"nofollow\" href=\"https:\/\/content.freelancehunt.com\/textattach\/f58e4\/3f18c\/1170589\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.05.58.png\" style=\"\" target=\"_blank\"><img src=\"https:\/\/content.freelancehunt.com\/textattach\/f58e4\/3f18c\/1170589\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.05.58.png\" style=\"width: 300px;\" alt=\"image\" \/><\/a><\/p><p>2. Показать скриншотами или на видео как настроить картинки в плитках категорий, сейчас там просто градиент разными цветами.<\/p><p><a rel=\"nofollow\" href=\"https:\/\/content.freelancehunt.com\/textattach\/4c355\/d115b\/1170591\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.07.29.png\" style=\"\" target=\"_blank\"><img src=\"https:\/\/content.freelancehunt.com\/textattach\/4c355\/d115b\/1170591\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.07.29.png\" style=\"width: 300px;\" alt=\"image\" \/><\/a><\/p><p>3. Настроить\/включить личный кабинет пользователя через, чтоб пользователи могли регистрироваться на сайте, видеть все свои покупки товаров, добавленных на сайте через Ecwid их статус.<\/p><p>3.1 Добавить кнопку личного кабинета\/регистрации в место, которое показано на скриншоте.&nbsp;<\/p><p>3.2 Добавить рядом с кнопкой личного кабинета кнопку с корзиной, на которой будет показано количество добавленных товаров и их общая стоимость<\/p><p>3.3 Показать скриншотами или на видео как и где настраивается личный кабинет. Например, какие поля должен заполнять пользователь при регистрации.<\/p><p><a rel=\"nofollow\" href=\"https:\/\/content.freelancehunt.com\/textattach\/ac69d\/4d8c4\/1170592\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.08.27.png\" style=\"\" target=\"_blank\"><img src=\"https:\/\/content.freelancehunt.com\/textattach\/ac69d\/4d8c4\/1170592\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.08.27.png\" style=\"width: 300px;\" alt=\"image\" \/><\/a><\/p><p>4. Показать скриншотами или на видео, где в админке выбираются товары, которые будут добавлены в &quot;Обрані продукти&quot;<\/p><p><a rel=\"nofollow\" href=\"https:\/\/content.freelancehunt.com\/textattach\/4470b\/54371\/1170594\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.10.20.png\" style=\"\" target=\"_blank\"><img src=\"https:\/\/content.freelancehunt.com\/textattach\/4470b\/54371\/1170594\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.10.20.png\" style=\"width: 300px;\" alt=\"image\" \/><\/a><\/p><p>5. Рядом с кнопкой &quot;Всі товари&quot; добавить: поле для поиска товаров, добавленных через Ecwid (в поле должно быть написано &quot;Пошук&quot;); выпадающий список с категориями товаров; выпадающий список с брендами товаров. При нажатии на ссылку из выпадающего списка должен происходить переход на страницу отдельной категории, либо отдельного бренда. Это может быть страничка, аналогичная той, которая будет добавлена в пункте 6, но просто с активированным заранее фильтром по категории\/бренду.<\/p><p><a rel=\"nofollow\" href=\"https:\/\/content.freelancehunt.com\/textattach\/5ea39\/99511\/1170601\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.16.31.png\" style=\"\" target=\"_blank\"><img src=\"https:\/\/content.freelancehunt.com\/textattach\/5ea39\/99511\/1170601\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.16.31.png\" style=\"width: 300px;\" alt=\"image\" \/><\/a><\/p><p>6. Сделать, чтобы при нажатии на кнопку &quot;Всі товари&quot;, осуществлялся переход на отдельную страницу со всеми товарами, где в левой части страницы будет два фильтра - категории, бренды, а справа плитки отфильтрованных товаров<\/p><p>7. На товарные страницы добавить блок похожих товаров внизу под описанием. Показать скриншотами или видео, как его настраивать (если нужно). Будет ли он автоматически добавляться в новых товарах?<\/p><p>8. Сделать чтоб при нажатии на кнопку добавлению в корзину не происходил автоматический переход в корзину, а просто менялся счетчик добавленных товаров на кнопке, добавленной в пункте 3.2<\/p><p><a rel=\"nofollow\" href=\"https:\/\/content.freelancehunt.com\/textattach\/b3769\/87f8a\/1170614\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.32.39.png\" style=\"\" target=\"_blank\"><img src=\"https:\/\/content.freelancehunt.com\/textattach\/b3769\/87f8a\/1170614\/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2021-11-20+%D0%B2+20.32.39.png\" style=\"width: 300px;\" alt=\"image\" \/><\/a><\/p><p><br \/><\/p><p><br \/><\/p>",
+            "skills": [
+            {
+                "id": 1,
+                "name": "PHP"
+            },
+            {
+                "id": 99,
+                "name": "Web programming"
+            }],
+            "status":
+            {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget": null,
+            "bid_count": 1,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "split",
+            "is_personal": false,
+            "employer":
+            {
+                "id": 420291,
+                "type": "employer",
+                "login": "viacheslav_dzi",
+                "first_name": "Вячеслав",
+                "last_name": "Д.",
+                "avatar":
+                {
+                    "small":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/50\/viacheslav_dzi.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large":
+                    {
+                        "url": "https:\/\/content.freelancehunt.com\/profile\/photo\/225\/viacheslav_dzi.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https:\/\/api.freelancehunt.com\/v2\/employers\/420291"
+            },
+            "freelancer": null,
+            "tags": [],
+            "updates": [],
+            "published_at": "2021-11-21T15:49:44+02:00",
+            "expired_at": "2021-11-27T20:41:53+02:00"
+        },
+        "links":
+        {
+            "self":
+            {
+                "api": "https:\/\/api.freelancehunt.com\/v2\/projects\/992641",
+                "web": "https:\/\/freelancehunt.com\/project\/nastroit-sayt-na-ecwid-wordpress\/992641.html"
+            },
+            "comments": "https:\/\/api.freelancehunt.com\/v2\/projects\/992641\/comments",
+            "bids": "https:\/\/api.freelancehunt.com\/v2\/projects\/992641\/bids"
+        }
+    }],
+    "links":
+    {
+        "self": "https:\/\/api.freelancehunt.com\/v2\/projects",
+        "next": "https:\/\/api.freelancehunt.com\/v2\/projects?page[number]=2",
+        "last": "https:\/\/api.freelancehunt.com\/v2\/projects?page[number]=175"
+    }
+}

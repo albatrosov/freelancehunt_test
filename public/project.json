@@ -1,0 +1,77 @@
+{
+    "data": {
+        "id": 992847,
+        "type": "project",
+        "attributes": {
+            "name": "Написание ТЗ и подготовка схемы для чат-бота в Телеграме",
+            "description": "Написание ТЗ и подготовка схемы чат-бота для утверждения с клиентом.\nОписание предоставлю дополнительно.",
+            "description_html": "<p>Написание ТЗ и подготовка схемы чат-бота для утверждения с клиентом.</p><p>Описание предоставлю дополнительно.</p><p><br /></p>",
+            "skills": [
+                {
+                    "id": 180,
+                    "name": "Bot development"
+                }
+            ],
+            "status": {
+                "id": 11,
+                "name": "Open for proposals"
+            },
+            "budget": {
+                "amount": 500,
+                "currency": "UAH"
+            },
+            "bid_count": 2,
+            "is_remote_job": false,
+            "is_premium": false,
+            "is_only_for_plus": false,
+            "location": null,
+            "safe_type": "employer",
+            "is_personal": false,
+            "employer": {
+                "id": 526219,
+                "type": "employer",
+                "login": "Katerina_2012",
+                "first_name": "Катерина",
+                "last_name": "П.",
+                "avatar": {
+                    "small": {
+                        "url": "https://content.freelancehunt.com/profile/photo/50/Katerina_2012.png",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "large": {
+                        "url": "https://content.freelancehunt.com/profile/photo/225/Katerina_2012.png",
+                        "width": 255,
+                        "height": 255
+                    }
+                },
+                "self": "https://api.freelancehunt.com/v2/employers/526219"
+            },
+            "freelancer": null,
+            "tags": [
+                {
+                    "id": 893985,
+                    "name": "чат-бот"
+                },
+                {
+                    "id": 5325626,
+                    "name": "Чат-боты для Telegram"
+                }
+            ],
+            "updates": [],
+            "published_at": "2021-11-21T16:08:26+02:00",
+            "expired_at": "2021-11-28T16:11:52+02:00"
+        },
+        "links": {
+            "self": {
+                "api": "https://api.freelancehunt.com/v2/projects/992847",
+                "web": "https://freelancehunt.com/project/napisanie-tz-podgotovka-shemyi-dlya/992847.html"
+            },
+            "comments": "https://api.freelancehunt.com/v2/projects/992847/comments",
+            "bids": "https://api.freelancehunt.com/v2/projects/992847/bids"
+        }
+    },
+    "links": {
+        "self": "https://api.freelancehunt.com/v2/projects/992847"
+    }
+}
